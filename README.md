@@ -1,5 +1,6 @@
 # Custom-Chrome-New-Tab
-A custom chrome new tab extension....
+A custom chrome new tab extension.... <br>
+Background images changes randomly...
 
 
 <p align="center">
