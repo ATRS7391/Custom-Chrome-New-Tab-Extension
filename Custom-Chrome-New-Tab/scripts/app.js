@@ -18,6 +18,8 @@ document.addEventListener('DOMContentLoaded', function () {
     let random_image_index = Math.floor(Math.random() * image_urls.length);
     document.getElementById('container-main').style.backgroundImage = 'url(' + image_urls[random_image_index] + ')';
 
+    document.getElementById("search-button").addEventListener("click", search);
+
     document.getElementById("search").addEventListener("keydown", function (e) {
         if (e.code === "Enter" || e.code === "NumpadEnter") {
             search();
@@ -36,6 +38,7 @@ function search() {
         }
         window.location.replace(query);
     }
+    return null;
 }
 
 
@@ -43,7 +46,6 @@ function is_valid_url(_string) {
     const match_pattern = /^(?:\w+:)?\/\/([^\s.]+\.\S{2}|localhost[:?\d]*)\S*$/;
     return match_pattern.test(_string);
 }
-
 
 function time_now() {
     let time = new Date();
