@@ -29,4 +29,4 @@ Head to `Custom-Chrome-New-Tab` > `assets` > `media` > `background-images` and t
 ### After all the customizations, don't forget to reload the new files.
 
 
-## This is open source and feel free to fork this and customise of your own
+## This is open source and feel free to fork this and customize of your own
