@@ -44,6 +44,7 @@ function is_valid_url(_string) {
     return match_pattern.test(_string);
 }
 
+
 function time_now() {
     let time = new Date();
     document.getElementById('time-now').innerHTML = time.toLocaleString('en-US', {
