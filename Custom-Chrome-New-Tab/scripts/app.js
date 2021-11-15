@@ -31,11 +31,10 @@ document.addEventListener('DOMContentLoaded', function () {
 function search() {
     let query = document.getElementById("search").value;
     if (query.replace(/\s/g, '').length) {
-        if (is_valid_url(query)) {
-            window.open(query, "_self");
-        } else {
-            window.open("https://www.google.com/search?q=" + query, "_self");
+        if (!is_valid_url(query)) {
+            query = "https://www.google.com/search?q=" + query;
         }
+        window.location.replace(query);
     }
 }
 
