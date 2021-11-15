@@ -1,6 +1,6 @@
 {
   "name": "Custom Chrome New Tab",
-  "description": "A custom new tab extension for Chromium based browsers. Made by ATRS",
+  "description": "A custom new tab extension for Chromium based browsers. Made by ATRS [Open Source, https://github.com/ATRS7391/Custom-Chrome-New-Tab]",
   "version": "0.1",
   "incognito": "split",
   "chrome_url_overrides": {
