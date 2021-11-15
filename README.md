@@ -2,10 +2,8 @@
 A custom chrome new tab extension.... <br>
 Background images changes randomly...
 
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/841173349760761857/909787691955146772/unknown.png">
-</p>
+### [Click here for Live Preview](https://atrs7391.github.io/Custom-Chrome-New-Tab-Extension/Custom-Chrome-New-Tab/index)
+![image](https://user-images.githubusercontent.com/82661604/141832119-67675cf4-993c-41cf-a026-8825888e6e72.png)
   
   
 ## How to apply
