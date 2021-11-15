@@ -21,11 +21,12 @@ Background images changes randomly...
 
 
 
-## How to customise
+## How to customize
 - Styles and designs <br>
 All the html, css and js folders are inside `Custom-Chrome-New-Tab`. You can customise of your like
 - Background images <br>
 Head to `Custom-Chrome-New-Tab` > `assets` > `media` > `background-images` and then add or delete images of your own from there. Then move to `Custom-Chrome-New-Tab` > `scripts` > `app.js` and there in the list of images, put proper paths of your added or deleted images.
+### After all the customizations, don't forget to repack the new files.
 
 
 ## This is open source and feel free to fork this and customise of your own
