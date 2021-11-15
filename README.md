@@ -4,6 +4,8 @@ Background images changes randomly...
 
 ### [Click here for Live Preview](https://atrs7391.github.io/Custom-Chrome-New-Tab-Extension/Custom-Chrome-New-Tab/index)
 ![image](https://user-images.githubusercontent.com/82661604/141832119-67675cf4-993c-41cf-a026-8825888e6e72.png)
+![image](https://user-images.githubusercontent.com/82661604/141832731-c56cafca-f736-4a64-b692-9d0e5a462ae7.png)
+
   
   
 ## How to apply
