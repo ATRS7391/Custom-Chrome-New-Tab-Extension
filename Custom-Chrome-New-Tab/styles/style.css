@@ -13,6 +13,7 @@
     -moz-user-select:none;
     -ms-user-select:none;
     user-select:none;
+    color: white;
 }
 
 .container-main {
@@ -64,7 +65,7 @@
 
 .container-search {
     display: flex;
-    height: 5%;
+    height: 40px;
     align-items: center;
     width: 40%;
 }
@@ -106,7 +107,7 @@ input::placeholder {
 button {
     background: none;
     border: none;
-    width: 60%;
+    width: 70%;
     height: 70%;
     cursor: pointer;
 }
@@ -131,7 +132,6 @@ button {
 
 .time-now {
     font-size: xxx-large;
-    color: white;
 }
 
 .container-inner {
