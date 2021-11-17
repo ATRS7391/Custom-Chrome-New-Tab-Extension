@@ -8,7 +8,7 @@ Background images changes randomly...
 ![image](https://user-images.githubusercontent.com/82661604/142170761-0cb8113c-2494-430e-94c5-556e751adce9.png)
 
 
- [All the wallpapers currently there](https://github.com/ATRS7391/Custom-Chrome-New-Tab-Extension/tree/main/Custom-Chrome-New-Tab/assets/media/background-images)
+ [All the wallpapers currently in use](https://github.com/ATRS7391/Custom-Chrome-New-Tab-Extension/tree/main/Custom-Chrome-New-Tab/assets/media/background-images)
   
 ## How to apply
 - Clone or download ZIP of this repository
